@@ -10,5 +10,4 @@ description: >-
 
 * [Memory Management](memory-management/)
 * [Automatic Fault diagnosis](automatic-fault-diagnosis.md)
-* 
-* 
+
